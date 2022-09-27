@@ -2,6 +2,7 @@
   "name": "@formio/angular",
   "version": "5.4.0-rc.1",
   "scripts": {
+    "prepare": "npm run build:prod",
     "ng": "ng",
     "build": "ng build angular-formio && npm run version",
     "build:watch": "ng build angular-formio --watch",

@@ -1,1 +1,0 @@
-{"version":3,"file":"auth.module.d.ts","sourceRoot":"","sources":["../../../projects/angular-formio/auth/src/auth.module.ts"],"names":[],"mappings":"AAQA,OAAO,EAAE,qBAAqB,EAAE,MAAM,eAAe,CAAC;;;;;;;;;AAItD,qBAaa,UAAU;IACrB,MAAM,CAAC,OAAO,CAAC,MAAM,CAAC,EAAE,qBAAqB,GAAG,GAAG;IAGnD,MAAM,CAAC,QAAQ,CAAC,MAAM,CAAC,EAAE,qBAAqB,GAAG,GAAG;yCAJzC,UAAU;0CAAV,UAAU;0CAAV,UAAU;CAOtB"}
