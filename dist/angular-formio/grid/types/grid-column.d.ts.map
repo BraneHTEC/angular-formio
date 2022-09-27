@@ -1,0 +1,1 @@
+{"version":3,"file":"grid-column.d.ts","sourceRoot":"","sources":["../../../../projects/angular-formio/grid/src/types/grid-column.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,iBAAiB,CAAC;AAEpD,MAAM,WAAW,UAAU;IACzB,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;IACb,UAAU,CAAC,CAAC,SAAS,EAAE,GAAG,EAAE,SAAS,CAAC,EAAE,iBAAiB,GAAG,MAAM,CAAC;CACpE"}
